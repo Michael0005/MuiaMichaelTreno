@@ -10,7 +10,7 @@
  * <LI>vagoni massimi
  * </UL>
  * @author User
- * versione  1
+ * versione  2
  */
 
 public class Treno {
